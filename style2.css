@@ -1,0 +1,36 @@
+body{
+  font-family:"Verdana", sans-serif;
+  color: #262626;
+  background-color: #99ccff;
+}
+
+img {
+  border: 3px solid #258e25;
+  border-radius: 4px;
+  background-color:white;
+  padding: 5px;
+}
+
+#sources{
+  font-size: 13px;
+}
+
+#underliner{
+  text-decoration-line: underline;
+}
+
+ul{
+  padding-left:50px;
+}
+
+p{
+  padding-left:35px;
+}
+
+#special-p{
+  padding-left:15px;
+}
+
+#special-p2{
+  padding-left:0px;
+}
