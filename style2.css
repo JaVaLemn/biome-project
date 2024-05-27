@@ -13,6 +13,7 @@ img {
 
 #sources{
   font-size: 13px;
+  padding-left: 0px;
 }
 
 #underliner{
@@ -29,8 +30,4 @@ p{
 
 #special-p{
   padding-left:15px;
-}
-
-#special-p2{
-  padding-left:0px;
 }
